@@ -1,0 +1,39 @@
+
+body{
+    background-image: url(../img/700x420_mc1web.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment:fixed;
+}
+
+h1{
+    color: #0e0d0d;
+}
+
+img{
+    width:400px;
+    
+}
+
+#thirdDiv{
+    display: flex;
+    justify-content:center;
+    margin: auto;
+    height: 600px;
+    width: 500px;
+    background: #ff0;
+    padding: 50px;
+    border: 2px solid #f2341f;
+}
+
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+    text-align: center;
+}
+
+.divClass{
+    text-align: center;
+    justify-content: left;
+}
